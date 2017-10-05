@@ -3,6 +3,7 @@
 ## Containers orchestration
 
 Orchestrator is the interface between the infrastructure and the applications
+
 ACS (Azure Container Service) allows to deploy an orchestrator:
 - Kubernetes
 - Docker Swarm
@@ -19,6 +20,7 @@ ACS (Azure Container Service) allows to deploy an orchestrator:
 ### Application manager for Kubernetes
 
 Helm, package manager
+
 Package == Helm chart
 
     http://kubeapps.com
