@@ -1,5 +1,7 @@
 # Continuous deployment with ACS, Kubernetes and Jenkins
 
+![cd-acs-kubernetes-jenkins](img/cd-acs-kubernetes-jenkins.jpg)
+
 ## Containers orchestration
 
 Orchestrator is the interface between the infrastructure and the applications

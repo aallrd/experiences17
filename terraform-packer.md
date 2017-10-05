@@ -1,5 +1,7 @@
 # Infrastructure as code: model and provision your Azure services with Terraform and Packer
 
+![terraform-packer](img/terraform-packer.jpg)
+
 ## Terraform
 
 - Versionning infrastructure

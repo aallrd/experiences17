@@ -1,5 +1,9 @@
 # Conteneurs Docker dans l'écosystème Microsoft
 
+![docker-microsoft](img/docker-microsoft.jpg)
+
+## Docker 101
+
 ## Docker 101
 
 microsoft/nanoserver

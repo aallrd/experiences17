@@ -1,5 +1,7 @@
 # En route vers les applications Cloud native
 
+![cloud-native](img/cloud-native.jpg)
+
 ## From mainframe to software defined
 
 - More terminals, more powerfull, more generic
